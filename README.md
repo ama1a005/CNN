@@ -18,3 +18,5 @@ This project implements a computer vision task using both a **custom Convolution
 
 ## Important Note
 The pretrained model file (`pretrained_model.h5`) could not be uploaded to this repository due to file size constraints.
+
+## Open source contribution
